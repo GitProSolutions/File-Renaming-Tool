@@ -33,7 +33,7 @@ To use the Bulk File Rename Tool, follow these steps:
 
 ## Credits
 
-The Bulk File Rename Tool was created by GitProSulotions.
+The Bulk File Rename Tool was created by GitProSolutions.
 
 ## License
 
